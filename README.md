@@ -1,4 +1,6 @@
-![alt-text](https://i.imgur.com/quYv1IE.jpg)
+<p align='center'>
+  ![alt-text](https://i.imgur.com/quYv1IE.jpg)
+</p>
 
 <h1 align='center'>
   Hi 👋 welcome to my GitHub's Repository 👨‍💻!
