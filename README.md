@@ -3,7 +3,7 @@
  </p>
 
 <h1 align='center'>
-  Hi 👋 welcome to my GitHub's Repository 👨‍💻!
+  Hi 👋 welcome to my personal GitHub Page 👨‍💻!
 </h1>
 
 <p align="center">
