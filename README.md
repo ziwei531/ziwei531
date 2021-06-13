@@ -12,7 +12,7 @@
 
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight" width="50%" height="50%" />
   </a>
 </p>
 
