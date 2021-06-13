@@ -1,6 +1,6 @@
 <p align='center'>
-  ![alt-text](https://i.imgur.com/quYv1IE.jpg)
-</p>
+  <img align='center' src='https://i.imgur.com/quYv1IE.jpg' />
+ </p>
 
 <h1 align='center'>
   Hi 👋 welcome to my GitHub's Repository 👨‍💻!
