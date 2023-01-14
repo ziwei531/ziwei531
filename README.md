@@ -28,10 +28,6 @@
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
 2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
 
-# If you are an employer that is currently viewing my github, please read below
-## Why me?
-As you can see, I have exerted large amount of efforts to self-study many related programming materials that are not generally not taught in my university. If you are looking for a qualitative intern for your company, please do consider me. 
-
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight" width="50%" height="50%" />
@@ -41,3 +37,7 @@ As you can see, I have exerted large amount of efforts to self-study many relate
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&layout=compact&theme=tokyonight" width="50%" height="50%"></a>
 </p>
+
+# If you are an employer that is currently viewing my github, please read below
+## Why me?
+As you can see, I have exerted large amount of efforts to self-study many related programming materials that are not generally not taught in my university. If you are looking for a qualitative intern for your company, please do consider me. 
