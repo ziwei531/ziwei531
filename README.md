@@ -14,8 +14,8 @@
 </p>
 
 ## Notably, these are the achievements that I have earned thus far in my CS journey:
-1. [Google Data Analytics Specialization Certification]((https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
-2. [Responsive Web Design by freeCodeCamp](https://wzw-blog.vercel.app/](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
+1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
+2. [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
 3. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
 
 <p align='center'>
