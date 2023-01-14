@@ -16,7 +16,7 @@
 ## Notably, these are the achievements that I have earned thus far in my CS journey:
 1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
 2. [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
-3. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
+3. [JavaScript Algorithms and Data Structures by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
 4. [Web Development Bootcamp by Angela Yu](https://www.udemy.com/certificate/UC-d7aef124-d70f-4538-a3b7-1ad9d5d3d1d4/)
 
 ## These are the projects that I have managed to do that are not of my university's assignments. Clicking them will redirect you to the github repository link. 
@@ -27,6 +27,10 @@
 ## These are the note-worthy assignments that I have done, either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
 2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
+
+# If you are an employer that is currently viewing my github, please read below
+## Why me?
+As you can see, I have exerted large amount of efforts to self-study many related programming materials that are not generally not taught in my university. If you are looking for a qualitative intern for your company, please do consider me. 
 
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
