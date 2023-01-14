@@ -24,6 +24,10 @@
 2. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
 3. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
 
+## These are the assignments that I have done, either individually or group.
+1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
+2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
+
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight" width="50%" height="50%" />
