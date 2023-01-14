@@ -18,6 +18,11 @@
 2. [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
 3. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
 
+## These are the projects that I have managed to do that are not of my university's assignments. Clicking them will redirect you to the github repository link. 
+1. [Next JS Blog](https://github.com/ziwei531/next-blog)
+2. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
+3. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
+
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight" width="50%" height="50%" />
