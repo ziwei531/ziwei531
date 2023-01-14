@@ -40,7 +40,7 @@
 
 # If you are an employer that is currently viewing my github, please read below
 
-Heads up! Currently I am looking for internship opportunities. I will be required to undergo an internship of a total of 1 year, which is from August 2023 until July 2024 based on my Syllabus calendar given by my university. You may email me through whoong.ziwei@gmail.com. My Resume can be viewed [here](https://flowcv.com/resume/qsrj03pfkd)
+Heads up! Currently I am looking for internship opportunities. I will be required to undergo an internship of a total of 1 year, which is from August 2023 until July 2024 based on my Syllabus calendar given by my university. You may email me through whoong.ziwei@gmail.com. My Resume can be viewed [here]([https://flowcv.com/resume/qsrj03pfkd](https://sdtaylorsedu-my.sharepoint.com/personal/ziwei_whoong_sd_taylors_edu_my/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fziwei%5Fwhoong%5Fsd%5Ftaylors%5Fedu%5Fmy%2FDocuments%2FBachelor%27s%20Degree%20in%20Computer%20Science%2FResume%2FWhoong%5FZi%20Wei%5FResume%2Epdf&parent=%2Fpersonal%2Fziwei%5Fwhoong%5Fsd%5Ftaylors%5Fedu%5Fmy%2FDocuments%2FBachelor%27s%20Degree%20in%20Computer%20Science%2FResume&ga=1))
 
 ## Why me?
 As you can see, I have exerted large amount of efforts to self-study many related programming materials that are not generally not taught in my university. If it isn't obvious yet, this also demonstrate that I am someone who is always knowledge-hungry and who can adapt to new technologies presented to me. If you are looking for a quality intern for your company, please do consider me. 
