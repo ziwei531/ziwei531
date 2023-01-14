@@ -40,4 +40,6 @@
 
 # If you are an employer that is currently viewing my github, please read below
 ## Why me?
+Heads up! Currently I am looking for internship opportunities.
+
 As you can see, I have exerted large amount of efforts to self-study many related programming materials that are not generally not taught in my university. If it isn't obvious yet, this also demonstrate that I am someone who is always knowledge-hungry and who can adapt to new technologies presented to me. If you are looking for a quality intern for your company, please do consider me. 
