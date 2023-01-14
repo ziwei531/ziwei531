@@ -17,6 +17,7 @@
 1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
 2. [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
 3. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
+4. [Web Development Bootcamp by Angela Yu](https://www.udemy.com/certificate/UC-d7aef124-d70f-4538-a3b7-1ad9d5d3d1d4/)
 
 ## These are the projects that I have managed to do that are not of my university's assignments. Clicking them will redirect you to the github repository link. 
 1. [Next JS Blog](https://github.com/ziwei531/next-blog)
