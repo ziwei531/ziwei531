@@ -39,7 +39,7 @@
 </p>
 
 # Miscellaneous Projects
-1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/OOP-Finals-](https://github.com/ziwei531/resin-timer)
+1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/OOP-Finals-)
 2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
 
 
