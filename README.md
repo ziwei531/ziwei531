@@ -38,6 +38,11 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&layout=compact&theme=tokyonight" width="50%" height="50%"></a>
 </p>
 
+# Miscellaneous Projects
+1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/OOP-Finals-](https://github.com/ziwei531/resin-timer)
+2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO/blob/master/README.md)
+
+
 # If you are an employer who is currently viewing my github, please read below
 
 Heads up! Currently I am looking for internship opportunities. I will be required to undergo an internship of a total of 1 year, which is from August 2023 until July 2024 based on my Syllabus calendar given by my university. You may email me through whoong.ziwei@gmail.com. My Resume can be viewed [here](https://sdtaylorsedu-my.sharepoint.com/personal/ziwei_whoong_sd_taylors_edu_my/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fziwei%5Fwhoong%5Fsd%5Ftaylors%5Fedu%5Fmy%2FDocuments%2FBachelor%27s%20Degree%20in%20Computer%20Science%2FResume%2FWhoong%5FZi%20Wei%5FResume%2Epdf&parent=%2Fpersonal%2Fziwei%5Fwhoong%5Fsd%5Ftaylors%5Fedu%5Fmy%2FDocuments%2FBachelor%27s%20Degree%20in%20Computer%20Science%2FResume&ga=1)
