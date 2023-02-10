@@ -11,7 +11,7 @@
   
   I am a computer science student in Taylor's University. Aside from the syllabus that all of us CS students typically take in my university, I have taken upon myself   to self-study quite a lot so as to stay relevant with what the industry may be seeking. Historically, I have studied and taken courses that enhanced my data science   skills and also web development skills, which have greatly benefited in me further understanding the fundamentals of programming in general. 
   
-By the way, a website portfolio has not been created YET. Due to university related responsibilities and mental exhaustion, I am temporarily borrowing my github's homepage to serve as my "website portfolio."
+By the way, a website portfolio has not been created YET. Due to university related responsibilities and mental exhaustion, I am temporarily borrowing my github's homepage to serve as my "website portfolio." I could've used an existing template, but I wanted a professional website of mine to truly reflect my personality and preference. If you doubt my ability to create web portfolios, do note that I have once created one back when I was in foundation in computing, which you may view in the miscellaneous section
 
 </p>
 
