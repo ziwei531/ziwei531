@@ -43,6 +43,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 # Miscellaneous Projects
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
 2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
+3. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 
 
 # If you are an employer who is currently viewing my github, please read below
