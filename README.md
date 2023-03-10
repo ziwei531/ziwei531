@@ -39,6 +39,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
 2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
 3. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
+4. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
 
 # Summary of the technologies I use
 <p align='center'>
