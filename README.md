@@ -35,6 +35,12 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
 2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
 
+# Miscellaneous Projects
+1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
+2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
+3. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
+
+# Summary of the technologies I use
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight" width="50%" height="50%" />
@@ -44,12 +50,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&layout=compact&theme=tokyonight" width="50%" height="50%"></a>
 </p>
-
-# Miscellaneous Projects
-1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
-2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
-3. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
-
 
 # If you are an employer who is currently viewing my github, please read below
 
