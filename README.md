@@ -34,6 +34,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 ## These are the note-worthy assignments that I have done, either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
 2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
+3. [SQL Assignment](https://github.com/ziwei531/sql-assignment)
 
 # Miscellaneous Projects
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
