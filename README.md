@@ -37,7 +37,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 3. [SQL Assignment](https://github.com/ziwei531/sql-assignment)
 
 # Miscellaneous Projects.
-They are not combined with the above as they are not as noteworthy or a bit too informal/hobbyist in nature. 
+They are not combined with the above's [Self Coded Projects] as they are not as noteworthy or a bit too informal/hobbyist in nature. 
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
 2. [First ever Web Portfolio. Created back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
 3. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
