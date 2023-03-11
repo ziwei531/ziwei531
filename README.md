@@ -31,7 +31,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 7. [Frontend Projects: Tribute Website](https://github.com/ziwei531/fcc-tribute-website)
 8. [Frontend Projects: Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
 
-## These are the note-worthy assignments that I have done, either individually or group.
+## University assignments. Done either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
 2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
 3. [SQL Assignment](https://github.com/ziwei531/sql-assignment)
