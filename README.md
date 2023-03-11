@@ -21,7 +21,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 3. [JavaScript Algorithms and Data Structures by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
 4. [Web Development Bootcamp by Angela Yu](https://www.udemy.com/certificate/UC-d7aef124-d70f-4538-a3b7-1ad9d5d3d1d4/)
 
-## These are the projects that I have managed to do that are not of my university's assignments. Clicking them will redirect you to the github repository link. 
+## Self coded Projects. NOT university assignments/projects. Clicking them will redirect you to the github repository link. 
 1. [Next JS Blog](https://github.com/ziwei531/next-blog)
 2. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
 3. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
