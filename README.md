@@ -1,3 +1,4 @@
+
 <p align='center'>
   <img align='center' src='https://i.imgur.com/BUiG9bS.png' />
  </p>
@@ -55,9 +56,15 @@ They are not combined with the above's [Self Coded Projects] as they are project
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&layout=compact&theme=tokyonight" width="50%" height="50%"></a>
 </p>
 
-# If you are an employer who is currently viewing my github, please read below
 
-Heads up! Currently I am looking for internship opportunities. I will be required to undergo an internship of a total of around 1 year, which is from August 2023 until July 2024 based on my Syllabus calendar given by my university. You may email me through whoong.ziwei@gmail.com. My Resume can be viewed [here](https://sdtaylorsedu-my.sharepoint.com/personal/ziwei_whoong_sd_taylors_edu_my/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fziwei%5Fwhoong%5Fsd%5Ftaylors%5Fedu%5Fmy%2FDocuments%2FBachelor%27s%20Degree%20in%20Computer%20Science%2FResume%2FWhoong%5FZi%20Wei%5FResume%2Epdf&parent=%2Fpersonal%2Fziwei%5Fwhoong%5Fsd%5Ftaylors%5Fedu%5Fmy%2FDocuments%2FBachelor%27s%20Degree%20in%20Computer%20Science%2FResume&ga=1)
+# Screenshots of Some Projects
+![fcc-jc-docs](https://i.imgur.com/pF77DjX.png)
+Sample Documentation Website with CSS Grid
 
-## Why me?
-As you can see, I have exerted large amount of efforts to self-study many related programming materials that are not generally not taught in my university. If it isn't obvious yet, this also demonstrate that I am someone who is always knowledge-hungry and who can adapt to new technologies presented to me. If you are looking for a quality intern for your company, please do consider me. 
+<p align='center'>
+  <img src="https://i.imgur.com/cQoBZyc.png" />
+ </p>
+ URL Shortener Project with Express and MongoDB
+
+![enter image description here](https://i.imgur.com/6pFLmpH.png)
+Product Landing Page HTML/CSS
