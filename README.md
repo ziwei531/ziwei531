@@ -58,13 +58,15 @@ They are not combined with the above's [Self Coded Projects] as they are project
 
 
 # Screenshots of Some Projects
+## Sample Documentation Website with CSS Grid
 ![fcc-jc-docs](https://i.imgur.com/pF77DjX.png)
-Sample Documentation Website with CSS Grid
 
+
+## URL Shortener Project with Express and MongoDB
 <p align='center'>
   <img src="https://i.imgur.com/cQoBZyc.png" />
  </p>
- URL Shortener Project with Express and MongoDB
 
+## Product Landing Page HTML/CSS
 ![enter image description here](https://i.imgur.com/6pFLmpH.png)
-Product Landing Page HTML/CSS
+
