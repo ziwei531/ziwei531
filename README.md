@@ -46,7 +46,7 @@ They are not combined with the above's [Self Coded Projects] as they are project
 
 2. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
-4. []()
+
 
 # Summary of the technologies I use
 <p align='center'>
