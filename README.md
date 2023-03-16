@@ -62,16 +62,20 @@ They are not combined with the above's [Self Coded Projects] as they are project
 
 # Screenshots of Some Projects
 ## Sample Documentation Website with CSS Grid
+[Click here to check it out](https://github.com/ziwei531/fcc-js-docs)
 ![fcc-jc-docs](https://i.imgur.com/pF77DjX.png)
 
 ## To-Do-List with React and API with Express
+[Click here to check it out](https://github.com/ziwei531/to-do-list)
 ![enter image description here](https://i.imgur.com/Ymi7ohv.png)
 
 ## URL Shortener Project with Express and MongoDB
+[Click here to check it out](https://github.com/ziwei531/URL-shortener)
 <p align='center'>
   <img src="https://i.imgur.com/cQoBZyc.png" />
  </p>
 
 ## Product Landing Page HTML/CSS
+[Click here to check it out](https://github.com/ziwei531/fcc-product-landing-page)
 ![enter image description here](https://i.imgur.com/6pFLmpH.png)
 
