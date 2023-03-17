@@ -29,6 +29,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 3. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
 4. [Full Stack To Do List Application](https://github.com/ziwei531/to-do-list)
 5. Frontend Projects: [A Documentation Website](https://github.com/ziwei531/fcc-js-docs), [Survey Form](https://github.com/ziwei531/fcc-survey-form), [Product Landing Page](https://github.com/ziwei531/fcc-product-landing-page), [Tribute Website](https://github.com/ziwei531/fcc-tribute-website), [Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
+6. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 
 ## University assignments. Done either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
@@ -39,8 +40,6 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 # Miscellaneous Projects
 They are not combined with the above's [Self Coded Projects] as they are projects that I've relied on instructional resources or are a bit too informal/hobbyist in nature.
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
-
-2. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
 
 
