@@ -28,8 +28,11 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 2. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
 3. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
 4. [Full Stack To Do List Application](https://github.com/ziwei531/to-do-list)
-5. Frontend Projects: [A Documentation Website](https://github.com/ziwei531/fcc-js-docs), [Survey Form](https://github.com/ziwei531/fcc-survey-form), [Product Landing Page](https://github.com/ziwei531/fcc-product-landing-page), [Tribute Website](https://github.com/ziwei531/fcc-tribute-website), [Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
-6. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
+5. [Frontend Projects: A Documentation Website](https://github.com/ziwei531/fcc-js-docs)
+6. [Frontend Projects: Survey Form](https://github.com/ziwei531/fcc-survey-form)
+7. [Frontend Projects: Product Landing Page](https://github.com/ziwei531/fcc-product-landing-page)
+8. [Frontend Projects: Tribute Website](https://github.com/ziwei531/fcc-tribute-website)
+9. [Frontend Projects: Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
 
 ## University assignments. Done either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
@@ -40,8 +43,10 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 # Miscellaneous Projects
 They are not combined with the above's [Self Coded Projects] as they are projects that I've relied on instructional resources or are a bit too informal/hobbyist in nature.
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
-3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
 
+2. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
+3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
+4. []()
 
 # Summary of the technologies I use
 <p align='center'>
@@ -74,3 +79,5 @@ They are not combined with the above's [Self Coded Projects] as they are project
 [Click here to check it out](https://github.com/ziwei531/fcc-product-landing-page)
 ![enter image description here](https://i.imgur.com/6pFLmpH.png)
 
+[Click here to check it out](https://github.com/ziwei531/anime-list-website)
+![enter image description here](https://i.imgur.com/G9nMGyj.png)
