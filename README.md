@@ -51,7 +51,7 @@ They are not combined with the above's [Self Coded Projects] as they are project
 </p>
 
 <p align='center'>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziwei531)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
