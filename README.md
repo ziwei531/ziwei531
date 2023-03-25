@@ -51,7 +51,7 @@ They are not combined with the above's [Self Coded Projects] as they are project
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&layout=compact&theme=tokyonight" width="50%" height="50%"></a>
+![Zi Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&theme=tokyonight)
 </p>
 
 
