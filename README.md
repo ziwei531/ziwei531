@@ -28,11 +28,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 2. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
 3. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
 4. [Full Stack To Do List Application](https://github.com/ziwei531/to-do-list)
-5. [Frontend Projects: A Documentation Website](https://github.com/ziwei531/fcc-js-docs)
-6. [Frontend Projects: Survey Form](https://github.com/ziwei531/fcc-survey-form)
-7. [Frontend Projects: Product Landing Page](https://github.com/ziwei531/fcc-product-landing-page)
-8. [Frontend Projects: Tribute Website](https://github.com/ziwei531/fcc-tribute-website)
-9. [Frontend Projects: Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
+5.  [Frontend Projects: Documentation Website](https://github.com/ziwei531/fcc-js-docs), [Survey Form,](https://github.com/ziwei531/fcc-survey-form) [Product Landing Page, ](https://github.com/ziwei531/fcc-product-landing-page)[Tribute Website, ](https://github.com/ziwei531/fcc-tribute-website)[Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
 
 ## University assignments. Done either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
