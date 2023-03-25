@@ -50,7 +50,9 @@ They are not combined with the above's [Self Coded Projects] as they are project
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&hide_progress=false)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&theme=tokyonight" width="50%" height="50%"></a>
+</p>
 
 # Screenshots of Some Projects
 ## Sample Documentation Website with CSS Grid
