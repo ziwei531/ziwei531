@@ -15,6 +15,8 @@
 
 My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed and those that were inspired by instructional resources. Technologies that I have worked on are Python, R, Java, Javascript, HTML & CSS, React, SQL & NoSQL(mongoDB), PHP, and C++.
 
+Oh by the way, if you're a current pursuing CS student from Taylor's, here's my [notes](https://whoongziwei.notion.site/Archived-Bachelor-of-Computer-Science-Subjects-b3e2115178bc48f9827c980c9dfb7f3d) for all the subjects I've taken so far
+
 </p>
 
 ## Notably, these are the achievements that I have earned thus far in my CS journey:
