@@ -6,10 +6,6 @@
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
 </h1>
 
-<p align='center'>
-![trophy](https://github-profile-trophy.vercel.app/?username=ziwei531&theme=onedark&row=2&column=3)
-</p>
-
 <p align="center">
   A little back ground about me. 
   
