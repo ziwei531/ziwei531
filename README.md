@@ -49,6 +49,12 @@ They are not combined with the above's [Self Coded Projects] as they are project
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&theme=react&hide=html,jupyter%20notebook" width="50%" height="50%"></a>
 </p>
 
+<p align='center'>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&&count_private=true&theme=react" width="50%" height="50%" />
+  </a>
+</p>
+
 # Screenshots of Some Projects
 ## Sample Documentation Website with CSS Grid
 [Click here to check it out](https://github.com/ziwei531/fcc-js-docs)
