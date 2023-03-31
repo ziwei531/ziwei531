@@ -6,7 +6,7 @@
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
 </h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ziwei531&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ziwei531&theme=onedark)
 
 <p align="center">
   A little back ground about me. 
