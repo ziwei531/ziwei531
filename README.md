@@ -6,6 +6,8 @@
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
 </h1>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ziwei531&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   A little back ground about me. 
   
@@ -45,12 +47,6 @@ They are not combined with the above's [Self Coded Projects] as they are project
 3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
 
 # Summary of the technologies I use
-<p align='center'>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwei531&show_icons=true&&count_private=true&theme=react" width="50%" height="50%" />
-  </a>
-</p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwei531&theme=react&hide=html,jupyter%20notebook" width="50%" height="50%"></a>
 </p>
