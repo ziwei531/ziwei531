@@ -75,4 +75,4 @@ They are not combined with the above's [Self Coded Projects] as they are project
 ![enter image description here](https://i.imgur.com/6pFLmpH.png)
 
 [Click here to check it out](https://github.com/ziwei531/anime-list-website)
-![enter image description here](https://i.imgur.com/G9nMGyj.png)
+![enter image description here](https://i.imgur.com/uwlnOvb.png)
