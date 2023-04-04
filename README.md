@@ -32,6 +32,7 @@ Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occas
 2. [Object-oriented Programming Assignment](https://github.com/ziwei531/oop-assignment-java)
 3. [SQL Assignment](https://github.com/ziwei531/sql-assignment)
 4. [First ever Web Portfolio. Created for an assignment back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
+5. [Foundation Years: Simple Python Assignment](https://github.com/ziwei531/python-assignment)
 
 # Miscellaneous Projects
 They are not combined with the above's [Self Coded Projects] as they are projects that I've done whilst following tutorial instructions or are a bit too informal/hobbyist in nature.
