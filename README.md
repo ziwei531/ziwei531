@@ -39,7 +39,6 @@ Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occas
 They are not combined with the above's [Self Coded Projects] as they are projects that I've done whilst following tutorial instructions or are a bit too informal/hobbyist in nature.
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
 2. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
-3. [Expense Tracker developed with React](https://github.com/ziwei531/expense-tracker-react)
 
 ## Some certifications that I've gained throuhout my CS journey. 
 1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
