@@ -25,6 +25,7 @@ Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occas
 4. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
 5. [Full Stack To Do List Application](https://github.com/ziwei531/to-do-list)
 6.  [Frontend Projects: Documentation Website](https://github.com/ziwei531/fcc-js-docs), [Survey Form,](https://github.com/ziwei531/fcc-survey-form) [Product Landing Page, ](https://github.com/ziwei531/fcc-product-landing-page)[Tribute Website, ](https://github.com/ziwei531/fcc-tribute-website)[Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
+7. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 
 ## University assignments. Done either individually or group.
 1. [Object-oriented Programming Finals](https://github.com/ziwei531/OOP-Finals-)
@@ -33,10 +34,9 @@ Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occas
 4. [First ever Web Portfolio. Created for an assignment back in Foundation in Computing](https://github.com/ziwei531/CCTS-E-PORTFOLIO)
 
 # Miscellaneous Projects
-They are not combined with the above's [Self Coded Projects] as they are projects that I've relied on instructional resources or are a bit too informal/hobbyist in nature.
+They are not combined with the above's [Self Coded Projects] as they are projects that I've done whilst following tutorial instructions or are a bit too informal/hobbyist in nature.
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
-2. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
-3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
+2. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
 
 ## Some certifications that I've gained throuhout my CS journey. 
 1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
