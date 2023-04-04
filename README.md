@@ -11,7 +11,7 @@
   
   I am a computer science student in [Taylor's University](https://university.taylors.edu.my/en.html). Aside from the syllabus that all of us CS students typically take in my university, I have taken upon myself   to self-study quite a lot so as to stay relevant with what the industry may be seeking. Historically, I have studied and taken courses that enhanced my data science   skills and also web development skills, which have greatly benefited in me further understanding the fundamentals of programming in general. 
 
-My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed and those that were inspired by instructional resources. Technologies that I have worked on are Python, R, Java, Javascript, HTML & CSS, React, SQL & NoSQL(mongoDB), PHP, and C++.
+My GitHub portfolio showcases a diverse range of coding projects, including those that I have independently developed and those that were inspired by instructional resources. Technologies that I have worked on are Javascript, HTML & CSS, React, SQL & NoSQL(mongoDB), PHP, Python, Java, and C++.
 
 Oh by the way, if you're a current pursuing CS student from Taylor's, here's my [notes](https://whoongziwei.notion.site/Archived-Bachelor-of-Computer-Science-Subjects-b3e2115178bc48f9827c980c9dfb7f3d) for all the subjects I've taken so far. As they're not exactly very well formatted, hence I'm just gonna give it for free. May they serve you well. 
 
