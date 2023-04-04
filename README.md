@@ -18,12 +18,6 @@ Oh by the way, if you're a current pursuing CS student from Taylor's, here's my 
 Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occasionally have code snippets posted there for educational purposes (primarily for myself 😅). 
 </p>
 
-## Notably, these are the achievements that I have earned thus far in my CS journey:
-1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
-2. [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
-3. [JavaScript Algorithms and Data Structures by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
-4. [Web Development Bootcamp by Angela Yu](https://www.udemy.com/certificate/UC-d7aef124-d70f-4538-a3b7-1ad9d5d3d1d4/)
-
 ## Noteworthy Self coded Projects. NOT university assignments/projects. Clicking them will redirect you to the github repository link. 
 1. [Anime List Application](https://github.com/ziwei531/anime-list-website)
 2. [Next JS Blog](https://github.com/ziwei531/next-blog)
@@ -43,6 +37,12 @@ They are not combined with the above's [Self Coded Projects] as they are project
 1. [Hobbyist Project: Resin Timer with React](https://github.com/ziwei531/resin-timer)
 2. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 3. [Simon Game with Jquery for DOM Manipulation](https://github.com/ziwei531/simon-game-by-ziwei/tree/main)
+
+## Some certifications that I've gained throuhout my CS journey. 
+1. [Google Data Analytics Specialization Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/T4TCWZ7G4V4P)
+2. [Responsive Web Design by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/responsive-web-design)
+3. [JavaScript Algorithms and Data Structures by freeCodeCamp](https://www.freecodecamp.org/certification/ziwei/javascript-algorithms-and-data-structures)
+4. [Web Development Bootcamp by Angela Yu](https://www.udemy.com/certificate/UC-d7aef124-d70f-4538-a3b7-1ad9d5d3d1d4/)
 
 # Summary of the technologies I use
 <p align='center'>
