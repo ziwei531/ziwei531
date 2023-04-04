@@ -15,7 +15,7 @@ My GitHub portfolio showcases a diverse range of coding projects, including thos
 
 Oh by the way, if you're a current pursuing CS student from Taylor's, here's my [notes](https://whoongziwei.notion.site/Archived-Bachelor-of-Computer-Science-Subjects-b3e2115178bc48f9827c980c9dfb7f3d) for all the subjects I've taken so far. As they're not exactly very well formatted, hence I'm just gonna give it for free. May they serve you well. 
 
-Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occasionally have code snippets posted there for educational purposes (primarily for myself 😅). 
+Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occasionally have code snippets posted there for educational purposes (primarily for myself to refer in the future 😅) and just a few frontend projects hosted there. I have them pinned if you are interested to see. 
 </p>
 
 ## Self coded Projects. NOT university assignments/projects. Clicking them will redirect you to the github repository link. 
