@@ -18,7 +18,7 @@ Oh by the way, if you're a current pursuing CS student from Taylor's, here's my 
 Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occasionally have code snippets posted there for educational purposes (primarily for myself 😅). 
 </p>
 
-## Noteworthy Self coded Projects. NOT university assignments/projects. Clicking them will redirect you to the github repository link. 
+## Self coded Projects. NOT university assignments/projects. Clicking them will redirect you to the github repository link. 
 1. [Anime List Application](https://github.com/ziwei531/anime-list-website)
 2. [Next JS Blog](https://github.com/ziwei531/next-blog)
 3. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
