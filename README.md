@@ -24,7 +24,7 @@ Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occas
 3. [Case Study - How Does a Bike-Share Navigate Speedy Success?](https://github.com/ziwei531/cyclistic-analysis)
 4. [Bellabeat Case Study with Python. This leads to the kaggle link instead of a github repository](https://www.kaggle.com/code/whoongziwei/bellabeat-case-study-with-python/notebook)
 5. [Full Stack To Do List Application](https://github.com/ziwei531/to-do-list)
-6.  [Frontend Projects: Documentation Website](https://github.com/ziwei531/fcc-js-docs), [Survey Form,](https://github.com/ziwei531/fcc-survey-form) [Product Landing Page, ](https://github.com/ziwei531/fcc-product-landing-page)[Tribute Website, ](https://github.com/ziwei531/fcc-tribute-website)[Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
+6. Frontend Projects: [Documentation Website](https://github.com/ziwei531/fcc-js-docs), [Survey Form,](https://github.com/ziwei531/fcc-survey-form) [Product Landing Page, ](https://github.com/ziwei531/fcc-product-landing-page)[Tribute Website, ](https://github.com/ziwei531/fcc-tribute-website)[Sample Portfolio Website](https://github.com/ziwei531/fcc-personal-portfolio)
 7. [URL Shortener with Express and EJS](https://github.com/ziwei531/URL-shortener)
 8. [Markdown Editor Demo with React (it will take you to a codesandbox link)](https://codesandbox.io/p/sandbox/markdown-demo-sho16g?file=README.md)
 
