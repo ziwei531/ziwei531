@@ -6,7 +6,7 @@
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
 </h1>
 
- ## I am slowly migrating my personal description to a [portfolio page](https://whoongziwei.vercel.app/). If you're still seeing this, that means I'm still in the progress of building the website so stay tuned!
+## I am slowly migrating my personal description to a [portfolio page](https://whoongziwei.vercel.app/). If you're still seeing this, that means I'm still in the progress of building the website so stay tuned!
 
 <p align="center">
   A little back ground about me. 
