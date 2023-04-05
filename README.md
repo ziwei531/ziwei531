@@ -4,9 +4,9 @@
 
 <h1 align='center'>
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
+  ## Visit my [portfolio page](https://whoongziwei.vercel.app/)! It's finally live 😀.
 </h1>
 
-## Visit my [portfolio page](https://whoongziwei.vercel.app/)! It's finally live 😀.
 <p align="center">
   A little back ground about me. 
   
