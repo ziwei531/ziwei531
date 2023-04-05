@@ -7,6 +7,8 @@
 </h1>
 
 <p align="center">
+  ##I am slowly migrating my personal description to a [portfolio page](https://whoongziwei.vercel.app/). If you're still seeing this, that means I'm still in the progress of building the website so stay tuned!
+  
   A little back ground about me. 
   
   I am a computer science student in [Taylor's University](https://university.taylors.edu.my/en.html). Aside from the syllabus that all of us CS students typically take in my university, I have taken upon myself   to self-study quite a lot so as to stay relevant with what the industry may be seeking. Historically, I have studied and taken courses that enhanced my data science   skills and also web development skills, which have greatly benefited in me further understanding the fundamentals of programming in general. 
