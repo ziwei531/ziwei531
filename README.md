@@ -1,10 +1,11 @@
 <p align='center'>
   <img align='center' src='https://i.imgur.com/BUiG9bS.png' />
  </p>
+ 
+## Visit my [portfolio page](https://whoongziwei.vercel.app/)! It's finally live 😀.
 
 <h1 align='center'>
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
-  Visit my [portfolio page](https://whoongziwei.vercel.app/)! It's finally live 😀.
 </h1>
 
 <p align="center">
