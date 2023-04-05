@@ -20,8 +20,6 @@ Oh by the way, if you're a current pursuing CS student from Taylor's, here's my 
 Here's a link to my [codesandbox.io](https://codesandbox.io/u/ziwei531). I occasionally have code snippets posted there for educational purposes (primarily for myself to refer in the future 😅) and just a few frontend projects hosted there. I have them pinned if you are interested to see. 
 </p>
 
-# Note! I am slowly migrating my project showcases to a [portfolio website](https://whoongziwei.vercel.app/projects) built with Sveltekit. If you are still seeing the links below, it means I'm not done with the project showcases yet. Please bear with me 😔
-
 ## Self coded Projects. NOT university assignments/projects. Clicking them will redirect you to the github repository link. 
 1. [Anime List Application](https://github.com/ziwei531/anime-list-website)
 2. [Next JS Blog](https://github.com/ziwei531/next-blog)
