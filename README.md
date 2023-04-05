@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  ##I am slowly migrating my personal description to a [portfolio page](https://whoongziwei.vercel.app/). If you're still seeing this, that means I'm still in the progress of building the website so stay tuned!
+  ## I am slowly migrating my personal description to a [portfolio page](https://whoongziwei.vercel.app/). If you're still seeing this, that means I'm still in the progress of building the website so stay tuned!
   
   A little back ground about me. 
   
