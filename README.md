@@ -5,9 +5,9 @@
 ## Visit my [portfolio page](https://whoongziwei.vercel.app/)! It's finally live 😀.
 
 
-<h1 align='center'>
+
   ![](https://komarev.com/ghpvc/?username=ziwei531&color=green)
-</h1>
+
 
 <h1 align='center'>
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
