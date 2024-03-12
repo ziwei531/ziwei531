@@ -9,7 +9,7 @@
   ![](https://komarev.com/ghpvc/?username=ziwei531&color=green)
 
 
-  ![Leetcode Stats](https://leetcode.com/ziwei531/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ziwei531)
 
 
 <h1 align='center'>
