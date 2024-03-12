@@ -9,6 +9,9 @@
   ![](https://komarev.com/ghpvc/?username=ziwei531&color=green)
 
 
+  ![Leetcode Stats](https://leetcode.com/ziwei531/)
+
+
 <h1 align='center'>
   Hi 👋 welcome to my personal GitHub Page 👨‍💻!
 </h1>
